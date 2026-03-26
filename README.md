@@ -123,4 +123,4 @@ jupyter
 
 **Ronaksinh Rajput**
 - GitHub: [@ronakrajput8882](https://github.com/ronakrajput8882)
-- LinkedIn: [ronaksinh-rajput8882](https://linkedin.com/in/ronakrajput8882)
+- LinkedIn: [ronakrajput8882](https://linkedin.com/in/ronakrajput8882)
